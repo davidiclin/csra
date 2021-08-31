@@ -1,0 +1,23 @@
+body {
+  background-color: #cfffc9;
+  font-family: Arial, Times, Serif;
+}
+.navbar {
+  background-color: #af005f;
+}
+.navbar .navbar-brand {
+  color: #ffffff;
+}
+nav .navbar-collapse {
+  border: 0;
+}
+nav li {
+  background-color: #ffbcd9;
+  margin: 0;
+  border-top: 1px solid white;
+}
+.menu-description {
+  margin: 0 15px;
+  padding: 1px 15px;
+  background-color: #ffff98;
+}
